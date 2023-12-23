@@ -1,0 +1,11 @@
+
+.parent{
+  text-align: center;
+}
+.Todo-items{
+  display:flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+}
+
